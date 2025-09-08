@@ -19,3 +19,6 @@ JavaScript
 CSS
 
 gh-pages for GitHub Pages deployment
+
+## Demo
+https://wandile-intern.github.io/mini-website-react/
