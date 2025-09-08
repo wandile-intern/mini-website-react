@@ -10,7 +10,7 @@ Dark mode toggle – Switch between light and dark themes
 
 Single-page layout – Easy to navigate
 
-# Technologies Used:
+## Technologies Used:
 
 React
 
